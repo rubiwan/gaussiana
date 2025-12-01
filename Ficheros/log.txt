@@ -1,0 +1,102 @@
+2025-11-28T20:21:00.307662 [INFO] Inicio del sistema
+2025-11-28T20:21:00.824146 [INFO] Controlador inicializado correctamente
+2025-11-28T20:21:05.964110 [INFO] Cierre de la aplicación - cerrando log
+2025-11-28T21:03:17.148016 [INFO] Inicio del sistema
+2025-11-28T21:03:17.675810 [INFO] Controlador inicializado correctamente
+2025-11-28T21:03:21.011692 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T07:57:42.222361 [ERROR] Fila 2 es completamente nula. Sistema singular.
+2025-12-01T07:57:42.233504 [ERROR] Pivote casi nulo en la columna 1. Sistema singular o mal condicionado.
+2025-12-01T08:06:40.251751 [ERROR] Fila 2 es completamente nula. Sistema singular.
+2025-12-01T08:06:40.262522 [ERROR] Pivote casi nulo en la columna 1. Sistema singular o mal condicionado.
+2025-12-01T08:17:14.514338 [ERROR] Fila 2 es completamente nula. Sistema singular.
+2025-12-01T08:17:14.525865 [ERROR] Pivote casi nulo en la columna 1. Sistema singular o mal condicionado.
+2025-12-01T08:18:24.937028 [ERROR] Fila 2 es completamente nula. Sistema singular.
+2025-12-01T08:18:24.947432 [ERROR] Pivote casi nulo en la columna 1. Sistema singular o mal condicionado.
+2025-12-01T08:41:40.632846 [ERROR] Fila 2 es completamente nula. Sistema singular.
+2025-12-01T08:41:40.644531 [ERROR] Pivote casi nulo en la columna 1. Sistema singular o mal condicionado.
+2025-12-01T08:50:12.033578 [ERROR] Fila 2 es completamente nula. Sistema singular.
+2025-12-01T08:50:12.046318 [ERROR] Pivote casi nulo en la columna 1. Sistema singular o mal condicionado.
+2025-12-01T09:02:39.707447 [INFO] Inicio del sistema
+2025-12-01T09:02:40.321412 [INFO] Controlador inicializado correctamente
+2025-12-01T09:03:03.181711 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:03:56.417542 [ERROR] Fila 2 es completamente nula. Sistema singular.
+2025-12-01T09:03:56.429922 [ERROR] Pivote casi nulo en la columna 1. Sistema singular o mal condicionado.
+2025-12-01T09:05:14.139073 [ERROR] Fila 2 es completamente nula. Sistema singular.
+2025-12-01T09:05:14.152612 [ERROR] Pivote casi nulo en la columna 1. Sistema singular o mal condicionado.
+2025-12-01T09:05:20.038592 [INFO] Inicio del sistema
+2025-12-01T09:05:20.493856 [INFO] Controlador inicializado correctamente
+2025-12-01T09:05:28.773996 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:05:39.444735 [INFO] Inicio del sistema
+2025-12-01T09:05:39.849203 [INFO] Controlador inicializado correctamente
+2025-12-01T09:05:44.909070 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:05:55.660332 [INFO] Inicio del sistema
+2025-12-01T09:05:56.061989 [INFO] Controlador inicializado correctamente
+2025-12-01T09:05:59.496781 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:07:51.119588 [INFO] Inicio del sistema
+2025-12-01T09:07:51.557833 [INFO] Controlador inicializado correctamente
+2025-12-01T09:07:55.292849 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:08:16.917386 [INFO] Inicio del sistema
+2025-12-01T09:08:17.309542 [INFO] Controlador inicializado correctamente
+2025-12-01T09:08:21.830023 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:08:24.999119 [INFO] Inicio del sistema
+2025-12-01T09:08:25.405565 [INFO] Controlador inicializado correctamente
+2025-12-01T09:08:28.397062 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:08:34.633177 [INFO] Inicio del sistema
+2025-12-01T09:08:35.029367 [INFO] Controlador inicializado correctamente
+2025-12-01T09:08:56.184832 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:09:52.050293 [INFO] Inicio del sistema
+2025-12-01T09:09:52.454936 [INFO] Controlador inicializado correctamente
+2025-12-01T09:09:56.961829 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:10:35.448259 [INFO] Inicio del sistema
+2025-12-01T09:10:35.853041 [INFO] Controlador inicializado correctamente
+2025-12-01T09:10:42.349772 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:11:02.448198 [INFO] Inicio del sistema
+2025-12-01T09:11:02.973952 [INFO] Controlador inicializado correctamente
+2025-12-01T09:11:08.722560 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:11:17.473775 [INFO] Inicio del sistema
+2025-12-01T09:11:17.920605 [INFO] Controlador inicializado correctamente
+2025-12-01T09:11:25.492840 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:11:32.725419 [INFO] Inicio del sistema
+2025-12-01T09:11:33.151704 [INFO] Controlador inicializado correctamente
+2025-12-01T09:11:39.546437 [ERROR] Error de entrada de datos - El coeficiente de x1 en la ecuación 1 está vacío.
+2025-12-01T09:12:16.736920 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:12:34.072134 [INFO] Inicio del sistema
+2025-12-01T09:12:34.471099 [INFO] Controlador inicializado correctamente
+2025-12-01T09:12:54.728396 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:15:11.238019 [INFO] Inicio del sistema
+2025-12-01T09:15:11.656842 [INFO] Controlador inicializado correctamente
+2025-12-01T09:16:56.768581 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:17:00.238916 [INFO] Inicio del sistema
+2025-12-01T09:17:00.759200 [INFO] Controlador inicializado correctamente
+2025-12-01T09:17:59.777834 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:20:48.851508 [INFO] Inicio del sistema
+2025-12-01T09:20:49.292217 [INFO] Controlador inicializado correctamente
+2025-12-01T09:21:52.629867 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:29:52.351871 [INFO] Inicio del sistema
+2025-12-01T09:29:52.824708 [INFO] Controlador inicializado correctamente
+2025-12-01T09:30:27.919290 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:30:35.627563 [INFO] Inicio del sistema
+2025-12-01T09:30:36.054881 [INFO] Controlador inicializado correctamente
+2025-12-01T09:33:27.453638 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:33:30.599357 [INFO] Inicio del sistema
+2025-12-01T09:33:31.015714 [INFO] Controlador inicializado correctamente
+2025-12-01T09:33:37.636610 [ERROR] Error de entrada de datos - El coeficiente de x1 en la ecuación 1 está vacío.
+2025-12-01T09:33:56.321367 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:34:25.878225 [INFO] Inicio del sistema
+2025-12-01T09:34:26.276820 [INFO] Controlador inicializado correctamente
+2025-12-01T09:34:38.582713 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:34:51.716053 [INFO] Inicio del sistema
+2025-12-01T09:34:52.132645 [INFO] Controlador inicializado correctamente
+2025-12-01T09:35:33.370989 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:37:33.784980 [INFO] Inicio del sistema
+2025-12-01T09:37:34.240196 [INFO] Controlador inicializado correctamente
+2025-12-01T09:38:13.016340 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:39:42.797503 [INFO] Inicio del sistema
+2025-12-01T09:39:43.244385 [INFO] Controlador inicializado correctamente
+2025-12-01T09:39:58.803520 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:41:45.970460 [INFO] Inicio del sistema
+2025-12-01T09:41:46.448001 [INFO] Controlador inicializado correctamente
+2025-12-01T09:42:39.430817 [INFO] Cierre de la aplicación - cerrando log
+2025-12-01T09:43:38.356001 [INFO] Inicio del sistema
+2025-12-01T09:43:38.832531 [INFO] Controlador inicializado correctamente
+2025-12-01T09:43:43.706770 [INFO] Cierre de la aplicación - cerrando log
