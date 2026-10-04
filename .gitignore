@@ -1,0 +1,19 @@
+# IDE configuration
+.idea/
+*.iml
+.classpath
+.project
+.settings/
+
+# Build output
+bin/
+out/
+target/
+*.class
+
+# Runtime logs
+*.log
+Ficheros/log.txt
+
+# macOS
+.DS_Store
