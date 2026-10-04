@@ -108,6 +108,7 @@ class GaussSolverTest {
      *
      * CE-05: Matriz casi singular
      */
+    @Test
     void throwsExceptionForNearlySingularPivot() {
         double tiny = 1e-16;
 
